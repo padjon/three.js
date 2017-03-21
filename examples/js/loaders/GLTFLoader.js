@@ -3,6 +3,7 @@
  * @author mrdoob / http://mrdoob.com/
  * @author Tony Parisi / http://www.tonyparisi.com/
  * @author Takahiro / https://github.com/takahirox
+
  */
 
 THREE.GLTFLoader = ( function () {
